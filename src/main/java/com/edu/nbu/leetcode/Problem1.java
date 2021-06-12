@@ -1,4 +1,4 @@
-package com.edu.nbu.leetcode.hot100;
+package com.edu.nbu.leetcode;
 
 import com.edu.nbu.PrintUtils;
 
